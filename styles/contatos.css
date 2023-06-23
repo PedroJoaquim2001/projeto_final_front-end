@@ -1,0 +1,61 @@
+.container__contatos{
+    background-color: var(--cinza-escuro);
+}
+
+.Lista__visao__trevo{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+}
+
+.campo__logo__top{
+    padding-top: 61px;
+}
+
+.campo__logo__botton{
+    padding-top: 61px;
+    padding-bottom: 80px;    
+}
+
+.paragrafo__visao__trevo{
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--branco-backgroud);
+    text-align: justify;
+}
+
+.lista__imagens{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+}
+
+.item__informacao{
+    padding:0px 60px;
+}
+
+.item__imagen{
+    padding: 2px 40px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    
+}
+
+.campo__informacoes{
+    padding-top: 61px;
+    padding-bottom: 20px;
+    margin: 0px 25px
+}
+
+
+.titulo__campo__informacoes{
+    font-family: var(--fonte-principal);
+    font-size: 36px;
+    color: var(--branco-backgroud);
+}
+
+.campo__contatos{
+    padding-bottom: 125px;
+}

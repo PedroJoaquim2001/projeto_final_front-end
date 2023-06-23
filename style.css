@@ -1,0 +1,33 @@
+@import url(styles/cabecalho.css);
+@import url(styles/vitrini.css);
+@import url(styles/destaques.css);
+@import url(styles/categorias.css);
+@import url(styles/noticias.css);
+@import url(styles/video.css);
+@import url(styles/contatos.css);
+@import url(styles/rodape.css);
+
+:root{
+    --verde-principal: #0DB04B;
+    --laranja-botoes: #EC6608;
+    --cinza-escuro: #333333;
+    --preto-letras: #000000;
+    --branco-backgroud: #FFFFFF;
+
+    --fonte-principal: 'roboto', sans-serif;
+}
+
+.body{
+    background-color: var(--branco-backgroud);
+    font-family: var(--fonte-principal);
+    font-weight: 700;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+

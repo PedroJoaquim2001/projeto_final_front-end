@@ -1,0 +1,14 @@
+.titulo__video{
+    font-family: var(--fonte-principal);
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+    color: var(--verde-principal);
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.campo_video{
+    text-align: center;
+    padding-bottom: 40px;
+}
